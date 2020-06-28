@@ -2,7 +2,7 @@
     "name": "python-tutorial",
     "displayName": "Python-tutorial",
     "description": "This extension helps you learn Python",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "pskovhack",
 	"author": {
 		"name": "PskovHack - http://pskovhack.ru/"
