@@ -1,0 +1,28 @@
+{
+    "name": "python-tutorial",
+    "displayName": "Python-tutorial",
+    "description": "This extension helps you learn Python",
+    "version": "0.0.1",
+    "publisher": "pskovhack",
+	"author": {
+		"name": "PskovHack - http://pskovhack.ru/"
+	},
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Orel123454/Python-tutorial.git"
+        }
+}
